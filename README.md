@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Richard Wei 👋
 
-<!--
-**LM-WJ/LM-WJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious mind from China, currently pursuing a master's degree with a focus on machine vision. Also known as **rootbird** / **韦建杰**.
 
-Here are some ideas to get you started:
+I enjoy exploring deep learning, tinkering with Android and Linux, and turning what I learn into notes on my blog. Away from the screen, you'll find me reading, working out, cycling, playing badminton, or swimming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Exploring **machine vision & deep learning**.
+- 📝 Writing about **books, experiments, and everyday discoveries** on my [Blog](https://lmblog.fun/).
+- 🌱 Staying curious, learning by doing, and experiencing more of the world.
+- 💬 Talk with me via [Email](mailto:wuhufufu@gmail.com) or [Telegram](https://t.me/lmblogfun).
+- 🐦 Find me on [X / Twitter](https://x.com/rootbird4).
+
+> 保持好奇，认真体验。
